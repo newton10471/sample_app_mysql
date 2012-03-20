@@ -8,8 +8,8 @@ gem 'rails', '3.0.9'
 gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'gravatar_image_tag'
 gem 'will_paginate'
-gem 'mysql'
-gem 'mysql2', '~> 0.2.7'
+#gem 'mysql'
+gem 'mysql2', '0.2.7'
 
 group :development do
   gem 'rspec-rails', '2.8.1'
